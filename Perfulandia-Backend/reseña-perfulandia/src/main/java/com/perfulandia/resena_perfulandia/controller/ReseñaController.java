@@ -12,7 +12,7 @@ import java.util.List;
 @RestController
 @RequestMapping("/api/reseñas")
 public class ReseñaController {
-5
+
     private final ReseñaService servicio;
 
     public ReseñaController(ReseñaService servicio) {
