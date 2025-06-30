@@ -20,7 +20,7 @@ public class Reseña {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
-
+//holi
     @NotBlank
     private String comentario;
 
