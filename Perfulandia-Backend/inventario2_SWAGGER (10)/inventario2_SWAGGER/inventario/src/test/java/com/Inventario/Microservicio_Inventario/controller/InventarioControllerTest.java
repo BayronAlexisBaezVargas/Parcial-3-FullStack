@@ -18,7 +18,7 @@ import java.util.List;
 
 @WebMvcTest(InventarioController.class)
 public class InventarioControllerTest {
-
+//a
     @Autowired
     private MockMvc mockMvc;
 
