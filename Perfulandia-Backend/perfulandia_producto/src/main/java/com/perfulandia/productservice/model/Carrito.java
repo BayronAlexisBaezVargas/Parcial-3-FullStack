@@ -1,7 +1,7 @@
 package com.perfulandia.productservice.model;
 
 import lombok.*;
-
+//a
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
