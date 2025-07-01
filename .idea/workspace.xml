@@ -11,6 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
@@ -55,6 +56,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="Push.Settings">
+    <force-push-targets>
+      <force-push-target remote-path="origin" branch="Bayron-baez" />
+    </force-push-targets>
+  </component>
   <component name="RunDashboard">
     <option name="configurationTypes">
       <set>
@@ -122,7 +128,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1751338156590</updated>
-      <workItem from="1751338158141" duration="462000" />
+      <workItem from="1751338158141" duration="679000" />
     </task>
     <task id="LOCAL-00001" summary="Commit de la párte de natalia funcional y ordenado con el proyecto">
       <option name="closed" value="true" />
@@ -148,7 +154,15 @@
       <option name="project" value="LOCAL" />
       <updated>1751338391325</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Commit de la párte de natalia funcional y ordenado con el proyecto">
+      <option name="closed" value="true" />
+      <created>1751338655253</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1751338655253</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
