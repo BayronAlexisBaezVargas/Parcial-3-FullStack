@@ -39,7 +39,7 @@ public class ReseñaControllerTest {
 
         mockMvc.perform(get("/api/reseñas"))
                 .andExpect(status().isOk())
-                .andExpect(jsonPath("$[0].nombre").value("ian badilla"));
+                .andExpect(jsonPath("$[0].autor").value("ian badilla"));
     }
 
     @Test
