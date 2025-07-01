@@ -4,9 +4,15 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
+        <option value="$PROJECT_DIR$/Perfulandia-Backend/usuarioservice/pom.xml" />
+        <option value="$PROJECT_DIR$/Perfulandia-Backend/perfumeria-pedido/pom.xml" />
+        <option value="$PROJECT_DIR$/Perfulandia-Backend/perfumeria_carrito/pom.xml" />
+        <option value="$PROJECT_DIR$/Perfulandia-Backend/perfulandia_producto/pom.xml" />
+        <option value="$PROJECT_DIR$/Perfulandia-Backend/inventario2_SWAGGER (10)/inventario2_SWAGGER/inventario/pom.xml" />
       </list>
     </option>
   </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_23" default="true" project-jdk-name="23" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
